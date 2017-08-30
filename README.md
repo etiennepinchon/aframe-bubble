@@ -10,13 +10,13 @@ Bubble component for [A-Frame](https://aframe.io) to add on any entities.
 
 ## Getting Started
 
-```
+```html
 <a-entity bubble></entity>
 ```
 
 To turn it off:
 
-```
+```html
 <a-entity bubble="enabled:false"></entity>
 ```
 
