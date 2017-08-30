@@ -1,4 +1,4 @@
-# A-Frame Bubble
+# A-Frame Bubble Component
 
 Bubble component for [A-Frame](https://aframe.io) to add on any entities.
 
