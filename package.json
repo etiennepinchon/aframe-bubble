@@ -1,7 +1,7 @@
 {
   "name": "aframe-bubble",
-  "description": "Boilerplate with A-Frame's 'Hello, World!' of WebVR.",
-  "version": "0.3.0",
+  "description": "Bubble component for AFrame (https://aframe.io).",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "start": "budo --live --verbose --port 3000 --open",
